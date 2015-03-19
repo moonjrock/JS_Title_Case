@@ -1,0 +1,11 @@
+#result {
+	display: none;
+}
+
+body {
+	background: url("../img/van.jpg") no-repeat;
+	background-size: cover;
+	font-family: Helvetica, Arial, Verdana, sans-serif; 
+	color: gray;
+
+}
